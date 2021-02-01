@@ -6,4 +6,4 @@ About Me:
 
 - 🔭 I’m currently working on Family Promise, a website that uses machine learning to reduce homelessness rates
 - 🌱 I’m currently learning about state-of-the-art strategies for winning Kaggle data competitions (Catboost models, Time series cross validation, MICE imputers, etc..)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trevor-pedersen-9177b111a/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/trevor-pedersen-9177b111a/)
